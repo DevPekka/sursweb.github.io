@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sursweb.com" resolutions="1x" timestamp="1525838691659">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sursweb.com" resolutions="1x" timestamp="1525839104038">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4166744234" ref="index"/>
-    <file name="nomq_index.css" crc="439216640" ref="index"/>
+    <file name="index.css" crc="4056098075" ref="index"/>
+    <file name="nomq_index.css" crc="4276418497" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -121,6 +121,7 @@
     <file name="u183-45.png" crc="4154270751" ref="index"/>
     <file name="u166-45.png" crc="3967636456" ref="index"/>
     <file name="u162-45.png" crc="222907349" ref="index"/>
+    <file name="favicon.ico" crc="4148917233" ref="index"/>
   </folder>
-  <file name="index.html" crc="202212530" seo="true" mt="1525838655434" redirect="true"/>
+  <file name="index.html" crc="3873885160" seo="true" mt="1525839095389" redirect="true"/>
 </manifest>
